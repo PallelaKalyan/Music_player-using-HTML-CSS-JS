@@ -30,4 +30,6 @@ Integrated Development Environment: VSCode.
 A full stack, Passionate , Young , Web developer. Breathing Teck & Computers, Never Stop learning and discovering stuff.
 
 # Appendix
-Don't mind to give the app a star ⭐
+Don't mind to give the app a star ⭐ 
+
+Thank you
