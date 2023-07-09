@@ -27,7 +27,7 @@ Integrated Development Environment: VSCode.
 # Hi, I'm Kalyan! 👋
 🚀 About Me
 
-A full stack, Passionate , Young , Web developer. Breathing Teck & Computers, Never Stop learning and discovering stuff.
+A Frontend, Passionate , Young , Web developer. Breathing Teck & Computers, Never Stop learning and discovering stuff.
 
 # Appendix
 Don't mind to give the app a star ⭐ 
